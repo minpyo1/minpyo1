@@ -1,6 +1,6 @@
-## Hi there 👋
+## 팀 개발을 위한 git github 시작하 👋
 
-<!--
+![image].(https://mail.google.com/mail/u/0?ui=2&ik=951f7bf5fb&attid=0.1&permmsgid=msg-a:r5297859314218791174&th=19323103640c4895&view=fimg&fur=ip&permmsgid=msg-a:r5297859314218791174&sz=s0-l75-ft&attbid=ANGjdJ-nm5WM3ZWDigvdVOBgF6hxvoE2VqEFODxOnlMx8qYA-rcNvpJefwDzcaT1Qrrg_61vBF8o2nDtLS2dbo1eZ8G64ePv-LWIvurpOZ5BIgMjuVmSzYLzh-xX9z0&disp=emb&realattid=19323102347218768f21&zw)
 **minpyo1/minpyo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
