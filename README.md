@@ -1,10 +1,8 @@
-## 팀 개발을 위한 git github 시작하 👋
+## 팀 개발을 위한 git github 시작하기 👋
 
-![image].(![IMG_5655](https://github.com/user-attachments/assets/33242eed-e8f7-48f7-968b-6b0f804e86c0)
-)
-**minpyo1/minpyo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![IMG_5655](https://github.com/user-attachments/assets/33242eed-e8f7-48f7-968b-6b0f804e86c0)
 
-Here are some ideas to get you started:
+### :octocat: 안녕하세요
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
