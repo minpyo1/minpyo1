@@ -1,7 +1,5 @@
 ## 팀 개발을 위한 git github 시작하기 👋
 
-![IMG_5655](https://github.com/user-attachments/assets/33242eed-e8f7-48f7-968b-6b0f804e86c0)
-
 ### :octocat: 안녕하세요
 
 - 🔭 I’m currently working on ...
